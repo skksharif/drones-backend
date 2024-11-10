@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Sample Product 1",
+    "price": 100,
+    "description": "Description of Sample Product 1",
+    "availability": true
+  },
+  {
+    "id": 2,
+    "name": "Drones",
+    "price": "202",
+    "description": "Description of Sample Product 2",
+    "availability": true
+  },
+  {
+    "id": 3,
+    "name": "Sample Product 3",
+    "price": 150,
+    "description": "A popular item with excellent reviews",
+    "availability": true
+  },
+  {
+    "id": 4,
+    "name": "Sample Product 4",
+    "price": 300,
+    "description": "Premium quality product for advanced users",
+    "availability": true
+  },
+  {
+    "id": 5,
+    "name": "Sample Product 5",
+    "price": 80,
+    "description": "An affordable option with good quality",
+    "availability": true
+  },
+  {
+    "id": 6,
+    "name": "Sample Product 6",
+    "price": 500,
+    "description": "High-end product with exclusive features",
+    "availability": true
+  },
+  {
+    "id": 7,
+    "name": "Sample Product 7",
+    "price": 120,
+    "description": "Compact and lightweight for easy use",
+    "availability": true
+  },
+  {
+    "id": 8,
+    "name": "Sample Product 8",
+    "price": 250,
+    "description": "Eco-friendly and sustainable material",
+    "availability": true
+  }
+]
